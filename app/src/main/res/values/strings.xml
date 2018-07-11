@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyPOS</string>
+    <string name="Shared_Pref_First_Run">firstrun</string>
+    <string name="EasyPOS_NameSpace">com.kelvingabe.EasyPOS</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_register_company">Register</string>
+</resources>
